@@ -1,7 +1,7 @@
 # 🌐 Repositório de Aprendizagem em Redes de Computadores  
 **Versão em Inglês abaixo**  
 
-## 📚 Sobre Este Reppositório  
+## 📚 Sobre Este Repositório  
 Este repositório documenta minha jornada de aprendizagem na disciplina de Redes de Computadores da Universidade do Algarve. Aqui, compartilho implementações práticas, exercícios e conceitos teóricos abordados durante as aulas, com base nos conteúdos dos Capítulos 1 e 2 dos materiais fornecidos.  
 
 ---
