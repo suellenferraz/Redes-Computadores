@@ -1,5 +1,5 @@
 # 🌐 Repositório de Aprendizagem em Redes de Computadores  
-**Versão em Inglês abaixo**  
+**Versão em Português**  
 
 ## 📚 Sobre Este Repositório  
 Este repositório documenta minha jornada de aprendizagem na disciplina de Redes de Computadores da Universidade do Algarve. Aqui, compartilho implementações práticas, exercícios e conceitos teóricos abordados durante as aulas, com base nos conteúdos dos Capítulos 1 e 2 dos materiais fornecidos.  
@@ -74,7 +74,7 @@ Contribuições são bem-vindas! Seja para corrigir detalhes teóricos (*ex.: mo
 ---
 
 ## 📫 Contato  
-Para dúvidas ou sugestões, abra uma *issue* ou envie um e-mail.  
+Para dúvidas ou sugestões, abra uma *issue* ou envie um e-mail (suellen.ferraz.113@ufrn.edu.br).  
 
 ---
 
@@ -159,7 +159,7 @@ Contributions are welcome! Whether to fix theoretical details (*e.g., layer mode
 ---
 
 ## 📫 Contact  
-For questions or suggestions, open an issue or send an email.  
+For questions or suggestions, open an issue or send an email (suellen.ferraz.113@ufrn.edu.br).  
 
 ---
 
